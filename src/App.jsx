@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <MainContent>
-        <h1 className="MainContent__title">Color palette</h1>
+        <h1 className="MainContent__title">Sandy Beach Color Scheme</h1>
         <img
           className="MainContent__img"
           src={
